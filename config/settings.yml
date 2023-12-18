@@ -1,0 +1,13 @@
+plugins:
+  flagged_post_email_notifaction_enabled:
+    default: true
+    client: true
+  flagged_post_email_recipient:
+    default: ""
+    client: true
+flagged_post_email_subject:
+    default: "New Flagged Post"
+    client: true
+flagged_post_email_body:
+    default: "Go check it out"
+    client: true

@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    flagged_post_email_notifaction_enabled: "Enable email notifications when a post is flagged?"
